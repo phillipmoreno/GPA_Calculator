@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="c1">Enter grade for course 1: </string>
+    <string name="c2">Enter grade for course 2: </string>
+    <string name="c3">Enter grade for course 3: </string>
+    <string name="c4">Enter grade for course 4: </string>
+    <string name="c5">Enter grade for course 5: </string>
+    <string name="hint">&#160;&#160;&#160;&#160;0</string>
+    <string name="calc">Compute GPA</string>
+    <string name="refresh">Refresh</string>
+    <string name="great">Great Academic Standing!</string>
+    <string name="okay">Okay Academic Standing</string>
+    <string name="bad">Study More! Needs Improvement!</string>
+    <string name="missing">You Are Missing Input(s)</string>
+</resources>
